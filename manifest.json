@@ -1,0 +1,9 @@
+{
+  "name": "personal-assistant",
+  "normalizedName": "personal-assistant",
+  "description": "私人助理技能，用于回答「今天有什么安排」「有没有漏掉的事」「进度到哪了」这类问题。记录日程安排与交办要求、主动监督遗漏项、检查完成进度、辅助日常餐饮推荐。所有提醒与进度判断按真实参照法挂到已登记的原始条目，不凭印象汇报\"应该做完了\"。触发词：我的日程、今天安排、有没有漏的、进度检查、待办监督、日程记录、提醒我别忘、私人助理、personal assistant、schedule。本技能为通用方法论工具，非医疗器械 / 非医疗软件，无疗效或临床声明；详见包内免责声明。",
+  "author": "诺声(Logos)@SynomosAI",
+  "copyright": "SynomosAI",
+  "version": "1.0.0",
+  "license": "MIT"
+}
